@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.canvas {
+  margin: 0 auto;
+  background: rgb(23, 116, 79);
+  padding: 10px;
+}
+
+.go {
+  height: 30px;
+  width: 100px;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
